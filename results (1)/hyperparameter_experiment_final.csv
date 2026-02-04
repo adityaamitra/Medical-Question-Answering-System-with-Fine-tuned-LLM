@@ -1,0 +1,4 @@
+Config Name,Learning Rate,LoRA Rank,LoRA Alpha,Training Time (min),Final Train Loss,Final Val Loss,ROUGE-1,ROUGE-2,ROUGE-L
+Config 1: Baseline,0.0001,16,32,46.3,1.2483,1.1840,0.3234,0.1849,0.2342
+Config 2: Higher LR + Smaller Rank,0.0002,8,16,46.2,1.2370,1.1729,0.3190,0.1805,0.2260
+Config 3: Lower LR + Larger Rank,5e-05,32,64,46.3,1.2613,1.1947,0.3140,0.1992,0.2438

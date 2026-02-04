@@ -1,0 +1,18 @@
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+**checkpoint*/
+**checkpoint-*/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other
+.DS_Store
+.gradio/

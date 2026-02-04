@@ -1,0 +1,43 @@
+index,question,predicted,reference,rouge1
+0,How many people are affected by Anxiety Disorders ?,"Anxiety disorders affect an estimated 2.8 percent of the population in a given country or region, although it is difficult to determine how much anxiety disorder affects women and children.
+
+Disclaimer: Consult a healthcare professional for medical advice. If you think someone may have an anxiety di","Studies estimate that anxiety disorders affect around 15 percent of older adults in a given year. More women than men experience anxiety disorders. They tend to be less common among older adults than younger adults. But developing an anxiety disorder late in life is not a normal part of aging.
+
+Disc",0.19933554817275748
+1,What is (are) Treatment Methods for Kidney Failure: Peritoneal Dialysis ?,"Peritoneal dialysis allows your kidneys to work, even when they are not functioning well.  Your doctor can recommend peritoneal dialysis if you have end-stage renal disease or severe kidney failure and a life expectancy of less than six months.
+                
+For people with normal blood pressure ","The two types of peritoneal dialysis are continuous ambulatory peritoneal dialysisalso called CAPDand automated peritoneal dialysiswhich doctors sometimes call APD or continuous cycler-assisted peritoneal dialysis. After learning about the types of peritoneal dialysis, you can choose the type that b",0.28063943161634103
+2,What is the outlook for Agnosia ?,"Agnosia usually has no long-term effects on daily life. In some cases, however, it can interfere with a person's ability to work or do activities of daily living.
+
+Disclaimer: Consult a healthcare professional for medical advice. 
+
+Disclaimer: Information contained in this web site is for general in","Agnosia can compromise quality of life.
+
+Disclaimer: Consult a healthcare professional for medical advice.",0.09125475285171103
+4,What is (are) Fetal hydantoin syndrome ?,"Fetal hydantoin syndrome, also known as prenatal exposure to phenytoin or other antiepileptic drugs during pregnancy can cause a range of developmental problems in the fetus. These symptoms may be seen with various types and levels of drug use by pregnant women but are most commonly associated with ","Fetal hydantoin syndrome is a disorder that is caused by exposure of a fetus to phenytoin, a drug commonly prescribed for epilepsy. Not all infants exposed to phenytoin will be affected with the disorder. Symptoms in affected individuals may include abnormalities of the skull and facial features, gr",0.28160919540229884
+6,How many people are affected by megalencephalic leukoencephalopathy with subcortical cysts ?,"The prevalence of MEC is unknown, but it appears to be less common than microcephaly. It has been described in only 24 cases.
+
+Disclaimer: Consult a healthcare professional for medical advice. If you have any concerns about your health, please don't hesitate to reach out to a qualified healthcare pr","Megalencephalic leukoencephalopathy with subcortical cysts is a rare condition; its exact prevalence is unknown. More than 150 cases have been reported in the scientific literature.
+
+Disclaimer: Consult a healthcare professional for medical advice.",0.2092050209205021
+8,How many people are affected by nonbullous congenital ichthyosiform erythroderma ?,"The prevalence of this condition is unknown.
+
+Disclaimer: Consult a healthcare professional for medical advice. 
+
+Disclaimer: This information is for educational purposes only and should not be used to diagnose or treat health problems. If you have concerns about your health, please consult a health","NBCIE is estimated to affect 1 in 200,000 to 300,000 individuals in the United States. This condition is more common in Norway, where an estimated 1 in 90,000 people are affected.
+
+Disclaimer: Consult a healthcare professional for medical advice.",0.14960629921259844
+9,What are the genetic changes related to PDGFRA-associated chronic eosinophilic leukemia ?,"PDGFR-alpha gene mutations can lead to an overproduction of PDGFR protein, which interferes with normal signaling in many cells. In bone marrow and blood stem cell cancers (such as CEC), this interference causes uncontrolled growth of these cancerous tissues by preventing them from responding normal","PDGFRA-associated chronic eosinophilic leukemia is caused by mutations in the PDGFRA gene. This condition usually occurs as a result of genetic rearrangements that fuse part of the PDGFRA gene with part of another gene. Rarely, changes in single DNA building blocks (point mutations) in the PDGFRA ge",0.28169014084507044
+11,What are the genetic changes related to Ewing sarcoma ?,"Ewing tumors have several different types of gene mutations. These genes, which include MYC and RB1, provide instructions for making proteins that help control cell growth (proliferation) and division (mitosis). Some people with this condition have a mutation in one or both of these genes; others do","The most common mutation that causes Ewing sarcoma involves two genes, the EWSR1 gene on chromosome 22 and the FLI1 gene on chromosome 11. A rearrangement (translocation) of genetic material between chromosomes 22 and 11, written as t(11;22), fuses part of the EWSR1 gene with part of the FLI1 gene, ",0.2105263157894737
+12,What is the outlook for Ohtahara Syndrome ?,"The prognosis of othaharaseptic encephalopathy varies depending on whether it develops in infancy or later. Infants with this disorder typically have a mild course, although they may develop seizures and other neurological problems.
+
+Disclaimer: Consult a healthcare professional for medical advice. ","The course of Ohtahara syndrome is severely progressive. Seizures become more frequent, accompanied by delays in physical and cognitive development.Some children will die in infancy; others will survive but be profoundly handicapped. As they grow, some children will progress into other epileptic dis",0.14189189189189189
+14,What are the complications of Foodborne Illnesses ?,"If you have a food poisoning infection, your body may not be able to fight off bacteria or viruses that cause it. In some cases, an infected person can pass on these pathogens (germs) in their stool and vomit.
+                
+Food Poisoning Complications
+                
+Vomiting from food poisonin","Foodborne illnesses may lead to dehydration, hemolytic uremic syndrome (HUS), and other complications. Acute foodborne illnesses may also lead to chronicor long lastinghealth problems.
+                
+Dehydration
+                
+When someone does not drink enough fluids to replace those that are l",0.19758507135016465
