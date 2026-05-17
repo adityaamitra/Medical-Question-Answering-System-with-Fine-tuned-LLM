@@ -24,21 +24,6 @@ This project fine-tunes **Llama-3 Instruct** using the **MedQuAD medical Q&A dat
 
 General-purpose LLMs lack specialized knowledge required for sensitive domains like healthcare. This project adapts a pre-trained LLM to answer **medical questions** more accurately while remaining computationally efficient.
 
----
-
-## 🗂️ Repository Structure
-
-
-.
-├── fine-tuning-a-llm.ipynb # Complete Kaggle training notebook
-├── results/ # Saved LoRA adapters and checkpoints
-├── gradio_demo_final.py # Final Gradio UI for inference
-├── inference_*.py # Different inference scripts (CPU, local, merged)
-├── merge_and_save.py # Script to merge LoRA with base model
-├── select_and_test.py # Testing script for model outputs
-├── README.md
-└── requirements.txt
-
 
 ---
 
